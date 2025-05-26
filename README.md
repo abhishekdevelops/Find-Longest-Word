@@ -1,4 +1,4 @@
-# 🧠 Find the Longest Word in a Sentence – JavaScript Logic Project
+#  Find the Longest Word in a Sentence – JavaScript Logic Project
 
 This JavaScript project finds the **longest word** in a given sentence using string manipulation and loop comparison.  
 The result is printed in the browser console.
